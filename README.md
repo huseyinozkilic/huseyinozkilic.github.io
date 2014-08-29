@@ -1,2 +1,4 @@
-huseyinozkilic.github.io
+Personal Github Page
 ========================
+
+http://huseyinozkilic.github.io
